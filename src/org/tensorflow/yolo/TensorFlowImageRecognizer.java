@@ -20,7 +20,7 @@ import static org.tensorflow.yolo.Config.OUTPUT_NAME;
 
 /**
  * A classifier specialized to label images using TensorFlow.
- * Modified by Zoltan Szabo
+ * Modified by Luci
  */
 public class TensorFlowImageRecognizer {
     private int outputSize;

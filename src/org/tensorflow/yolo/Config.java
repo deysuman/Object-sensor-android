@@ -1,8 +1,8 @@
 package org.tensorflow.yolo;
 
 /**
- * Created by Zoltan Szabo on 12/17/17.
- * https://github.com/szaza/android-yolo-v2
+ * Created by Luci on 05/05/17.
+ * https://github.com/deysuman/Object-sensor-android
  */
 public interface Config {
     int INPUT_SIZE = 416;   // The input size. A square image of inputSize x inputSize is assumed.

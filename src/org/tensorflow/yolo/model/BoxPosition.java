@@ -3,8 +3,8 @@ package org.tensorflow.yolo.model;
 /**
  * Model to store the position of the bounding boxes
  *
- * Created by Zoltan Szabo on 1/14/18.
- * URL: https://github.com/szaza/android-yolo-v2
+ * Created by Luci on 05/05/17.
+ * https://github.com/deysuman/Object-sensor-android
  */
 
 public class BoxPosition {

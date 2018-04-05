@@ -14,8 +14,8 @@ import java.util.Vector;
  * It is used to read names of the classes from the specified resource.
  * It also specifies a color for each classes.
  *
- * Created by Zoltan Szabo on 12/17/17.
- * URL: https://github.com/szaza/android-yolo-v2
+ * Created by Luci on 05/05/17.
+ * https://github.com/deysuman/Object-sensor-android
  */
 
 public final class ClassAttrProvider {

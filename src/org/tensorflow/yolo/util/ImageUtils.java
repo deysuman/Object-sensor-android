@@ -4,8 +4,8 @@ import android.graphics.Matrix;
 
 /**
  * Utility class for manipulating images.
- * Modified by Zoltan Szabo
- * URL: https://github.com/szaza/android-yolo-v2
+ * Created by Luci on 05/05/17.
+ * https://github.com/deysuman/Object-sensor-android
  **/
 public class ImageUtils {
     // This value is 2 ^ 18 - 1, and is used to clamp the RGB values before their ranges
